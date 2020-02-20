@@ -1,0 +1,14 @@
+.heading {
+    font-size: 30px;
+    font: bold;
+    margin-bottom: 30px;
+}
+
+.contents-title {
+    font-size: 30px;
+    font: bold;
+}
+
+.p {
+    padding-top: 10px;
+}
